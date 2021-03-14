@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
+I'm Sébastien Boulet, a software engineer living in Montpellier, France.
+
+I've been coding professionally for 15 years in different kind of companies: Startup, UX design agency, SAS society, software editor. I like working with passionate peoples on challenging subjects. I believe on fundamentals and skills that last (Linux, data structures, software design...) and have a particular interest for automation.
+
+I a currently working at [Teads](https://engineering.teads.com/). I am part of the Platform Engeenering team which makes the life of Teads engineers easier.
 <!--
 **gontard/gontard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
